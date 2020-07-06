@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tracking-packages-505e1": {
+      "hosting": {
+        "tracking-packages": [
+          "tracking-packages-505e1"
+        ]
+      }
+    }
+  }
+}
